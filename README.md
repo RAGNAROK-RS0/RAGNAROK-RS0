@@ -1,14 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=RAGNAROK_RS&fontSize=42&fontColor=00e5ff&animation=fadeIn&fontAlignY=38" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAGNAROK-RS0&style=flat-square&color=00e5ff" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RAGNAROK-RS0&label=Views&color=00e5ff&style=flat-square" alt="profile views" />
   <a href="https://x.com/RhineSolution"><img src="https://img.shields.io/badge/X-@RhineSolution-000000?style=flat-square&logo=x&logoColor=00e5ff" alt="X" /></a>
   <a href="https://rhinesolution.com/"><img src="https://img.shields.io/badge/Web-rhinesolution.com-302b63?style=flat-square&logo=google-chrome&logoColor=00e5ff" alt="website" /></a>
 </p>
 
 ## 🎯 Focusing
 
-Software Development / building as **RhineSolution**.
+Software Development student @ ROC Aventus · building as **RhineSolution**.
 
 ## 📊 Stats
 
@@ -21,10 +21,10 @@ Software Development / building as **RhineSolution**.
   <img src="https://streak-stats.demolab.com?user=RAGNAROK-RS0&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 </p>
 
-## 🏆 Trophies
+## 🐍 Contributions
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RAGNAROK-RS0&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://raw.githubusercontent.com/RAGNAROK-RS0/RAGNAROK-RS0/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </p>
 
 ## 🔗 Where to find me
