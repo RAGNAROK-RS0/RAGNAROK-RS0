@@ -8,7 +8,7 @@
 
 ## 🎯 Focusing
 
-Software Development student @ ROC Aventus · building as **RhineSolution**.
+Software Development / building as **RhineSolution**.
 
 ## 📊 Stats
 
